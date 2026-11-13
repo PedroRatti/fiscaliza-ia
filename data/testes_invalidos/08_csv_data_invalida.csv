@@ -1,0 +1,2 @@
+contrato,item,descricao_contratada,descricao_medida,unidade_medida,quantidade_contratada,quantidade_acumulada,preco_unitario_contratado,preco_unitario_medido,avanco_fisico_pct,avanco_financeiro_pct,inicio_previsto,fim_previsto,data_medicao
+OBRA-TESTE,1.1,Escavacao mecanica de solo,Escavacao mecanica de solo,m3,1200,900,18.50,18.50,75,75,2026-01-10,2026-03-30,nao-e-uma-data

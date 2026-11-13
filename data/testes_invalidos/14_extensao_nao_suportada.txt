@@ -1,0 +1,1 @@
+Este arquivo possui uma extensao que a aplicacao nao aceita.
